@@ -1,7 +1,7 @@
 {
   "name": "favorite-classes",
   "version": "0.1.0",
-  "homepage": "https://solvins.github.io/favorite-classes", 
+  "homepage": "https://ssolvin.github.io/favorite-classes",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
