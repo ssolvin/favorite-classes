@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 import Class from "../Class/class.js";
-import "./Home.css"
+import "./home.css"
 
 function Home(props) {
 
